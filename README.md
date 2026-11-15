@@ -84,17 +84,29 @@ raul = {
   <tr>
     <td width="50%" valign="top">
       <h4>💸 DivAid</h4>
-      An expense-splitting mobile app built in a team of 3, on a brief set by <b>Bending Spoons</b> for the Design &amp; Implementation of Mobile Applications course.
+      An expense-splitting mobile app with group wallets, built in a team of 3 on a brief set by <b>Bending Spoons</b> for the Design &amp; Implementation of Mobile Applications course. I worked on Stripe top-ups, the wallet history, withdrawals through Cloud Functions and group invites.
       <br/><br/>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
       <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat-square&logo=firebase&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚁 StickTheLanding</h4>
+      A 12-hour hackathon by <b>Project Europe × SkyEU</b>: an autonomous drone that lands on a moving boat using only a downward camera and an ArUco marker. I wrote the Kalman filters that track the boat from the marker detections.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kalman%20filters-2b2d2f?style=flat-square" />
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>🎓 More from university</b></summary>
+<summary><b>🎓 More projects</b></summary>
 <br/>
+
+- 🏛️ **Vinci** (with [GDG PoliMi](https://github.com/GDG-polimi), in progress): designing the data pipeline for a RAG assistant for PoliMi students
+- 🔨 **Live Auction App** (2020): real-time player auction for fantasy leagues with React, Express and Socket.IO
 
 - 🃏 [**Codex Naturalis**](https://github.com/r4gor/Codex-Naturalis): multiplayer board game in Java (Software Engineering final project)
 - 🏢 [**Students & Companies**](https://github.com/r4gor/Students-and-Companies): internship-matching platform in TypeScript (Software Engineering 2)
