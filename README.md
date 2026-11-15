@@ -105,13 +105,22 @@ raul = {
 <summary><b>🎓 More projects</b></summary>
 <br/>
 
+**Machine learning & research**
+- 🧠 [**AN2DL challenges**](https://github.com/r4gor/ANN2DL-Polimi): pain detection from kinematic time series (CNN + LSTM + attention, weighted F1 0.92) and breast-cancer subtyping from slide images with pathology foundation models (UNI + CatBoost), in teams
+- ⏱️ [**ML for WCET estimation**](https://github.com/r4gor/WCET-ML-Survey): desk research on machine learning for worst-case execution time (Embedded Systems)
+- 📡 [**IoT challenges**](https://github.com/r4gor/IoT-Polimi): ESP32 energy modelling, CoAP/MQTT capture analysis, Node-RED, LoRaWAN, 802.15.4, BLE and RFID
 - 🏛️ **Vinci** (with [GDG PoliMi](https://github.com/GDG-polimi), in progress): designing the data pipeline for a RAG assistant for PoliMi students
-- 🔨 [**Live Auction App**](https://github.com/r4gor/auctions) (2020): real-time player auction for fantasy leagues with React, Express and Socket.IO
 
-- 🃏 [**Codex Naturalis**](https://github.com/r4gor/Codex-Naturalis): multiplayer board game in Java (Software Engineering final project)
+**Systems & algorithms**
+- 🛣️ [**EV Highway Route Planner**](https://github.com/r4gor/EV-Highway-Route-Planner): fewest-stops route planning in C with an AVL tree and a priority queue (Algorithms & Data Structures, 30L/30)
+- ➕ [**IEEE 754 Adder**](https://github.com/r4gor/IEEE754-Adder): pipelined single-precision floating-point adder in VHDL (Digital Logic Design)
+- 🔢 [**Miller-Rabin**](https://github.com/r4gor/Miller-Rabin): 512-bit primality testing in C++ with Boost and Google Benchmark
+
+**Apps & games**
+- 🃏 [**Codex Naturalis**](https://github.com/r4gor/Codex-Naturalis): multiplayer board game in Java with CLI, GUI and chat (Software Engineering final project)
 - 🏢 [**Students & Companies**](https://github.com/r4gor/Students-and-Companies): internship-matching platform in TypeScript (Software Engineering 2)
-- ➕ [**IEEE754 Adder**](https://github.com/r4gor/IEEE754-Adder): floating-point adder in Verilog (Digital Logic Design)
-- 🧮 [**Algorithms & Data Structures**](https://github.com/r4gor/PFAPI23_AGOLLI_10783671): final project in C
+- 🚢 [**Battleship**](https://github.com/r4gor/battleship): online multiplayer game in Python with a threaded TCP server and Docker
+- 🔨 [**Live Auction App**](https://github.com/r4gor/auctions) (2020): real-time player auction for fantasy leagues with React, Express and Socket.IO
 
 </details>
 
@@ -131,7 +140,7 @@ raul = {
 
 <p align="center">
   <b>Languages</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,java,js,ts,dart,c,cpp,php,verilog&perline=9" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,ts,dart,c,cpp,php&perline=8" alt="Languages" />
 </p>
 <p align="center">
   <b>ML &amp; Vision</b><br/><br/>
