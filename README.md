@@ -106,7 +106,7 @@ raul = {
 <br/>
 
 - 🏛️ **Vinci** (with [GDG PoliMi](https://github.com/GDG-polimi), in progress): designing the data pipeline for a RAG assistant for PoliMi students
-- 🔨 **Live Auction App** (2020): real-time player auction for fantasy leagues with React, Express and Socket.IO
+- 🔨 [**Live Auction App**](https://github.com/r4gor/auctions) (2020): real-time player auction for fantasy leagues with React, Express and Socket.IO
 
 - 🃏 [**Codex Naturalis**](https://github.com/r4gor/Codex-Naturalis): multiplayer board game in Java (Software Engineering final project)
 - 🏢 [**Students & Companies**](https://github.com/r4gor/Students-and-Companies): internship-matching platform in TypeScript (Software Engineering 2)
