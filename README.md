@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://github.com/r4gor">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF073A&center=true&vCenter=true&width=600&lines=I+build+things+that+work+end+to+end;Computer+vision+on+tiny+devices+%F0%9F%93%B7;Self-hosted+AI+assistants+%F0%9F%A4%96;Web+%26+mobile+apps+that+ship+%F0%9F%9A%80;Hackathon+winner+%F0%9F%8F%86" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=FF073A&center=true&vCenter=true&width=600&lines=I+build+things+that+work+end+to+end;Computer+vision+on+tiny+devices+%F0%9F%93%B7;AI+oral+exams+that+listen+%F0%9F%8E%99%EF%B8%8F;Self-hosted+AI+assistants+%F0%9F%A4%96;Web+%26+mobile+apps+that+ship+%F0%9F%9A%80;Hackathon+winner+%F0%9F%8F%86" alt="Typing intro" />
   </a>
 </p>
 
@@ -25,14 +25,15 @@ raul = {
     "based_in":     "Milan, Italy 🇮🇹",
     "studying":     "MSc Computer Science & Engineering @ PoliMi (2025 → 2027)",
     "into":         ["computer vision", "edge AI", "security", "self-hosting"],
-    "shipped":      "~12 freelance projects for startups & small businesses",
-    "latest_win":   "🥇 1st place, GDG AI Hack (GDG PoliMi × Luxonis)",
+    "shipped":      "freelance work for 12 larger clients + 50+ smaller ones",
+    "wins":         ["🥇 Reply Student Clash 2026", "🥇 GDG AI Hack (GDG PoliMi × Luxonis)"],
+    "open_source":  "OnlineBaggingRegressor, merged into CapyMOA",
     "speaks":       ["Italian", "English (C1)", "Python"],
     "fun_fact":     "made the CyberChallenge.IT national phase while still in high school",
 }
 ```
 
-- 🔭 Currently: finishing my **MSc**, polishing a **CapyMOA** contribution (ML on data streams) and running my own **voice-to-calendar AI bot** on a VPS
+- 🔭 Currently: working on my **MSc**, looking for my next **CapyMOA** contribution (ML on data streams) and running my own **voice-to-calendar AI bot** on a VPS
 - 🌱 Digging into: computer architectures, computing infrastructures, IoT and computer security
 - 🤝 Open to: **internships, thesis collaborations and cool hackathon teams**
 - 💬 Ask me about: on-device vision, React Native, or why everything should run in a Docker container
@@ -44,6 +45,15 @@ raul = {
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4>🏛️ <a href="https://github.com/r4gor/StudentClash-PreCooked">Pythagoras</a> · 🥇 1st @ Reply Student Clash 2026</h4>
+      An AI oral examiner for project-based courses, built with team <b>Pre Cooked</b>. A team talks for ~10 minutes with Pythagoras about its <i>own</i> project; it climbs Bloom's levels on three topics and hands the professor a report with verbatim, transcript-checked quotes. It never assigns the grade. I worked on the interview rules, the local voice pipeline, the report and the backend, and pitched it at the final.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Whisper-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
       <h4>🏋️ <a href="https://github.com/r4gor/FORMA">FORMA</a> · 🥇 1st @ GDG AI Hack</h4>
       A sensor-free squat coach. YOLOv8-pose runs <b>on-device</b> on a Luxonis OAK-4D depth camera at 24 fps, joints get deprojected into real-world cm to measure hip depth, and a random forest grades every rep (good / shallow / forward lean) live on an ESP32 display over MQTT.
       <br/><br/>
@@ -51,6 +61,15 @@ raul = {
       <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" />
       <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
       <img src="https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌊 <a href="https://github.com/adaptive-machine-learning/CapyMOA/pull/479">CapyMOA contribution</a> · merged</h4>
+      Added an online bagging regressor to <a href="https://capymoa.org">CapyMOA</a>, a library for machine learning on data streams. It started as a course project and is now part of the library.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Stream%20ML-ff073a?style=flat-square" />
     </td>
     <td width="50%" valign="top">
       <h4>🎙️ Voice-to-Calendar Assistant</h4>
@@ -63,13 +82,6 @@ raul = {
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <h4>🌊 CapyMOA contribution</h4>
-      Ported a bagging regressor to <a href="https://capymoa.org">CapyMOA</a>, a library for machine learning on data streams. Started as a course project, now heading upstream.
-      <br/><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Stream%20ML-ff073a?style=flat-square" />
-    </td>
     <td width="50%" valign="top">
       <h4>💸 DivAid</h4>
       An expense-splitting mobile app built in a team of 3, on a brief set by <b>Bending Spoons</b> for the Design &amp; Implementation of Mobile Applications course.
@@ -97,7 +109,7 @@ raul = {
 
 | When | Role | Where |
 | :-- | :-- | :-- |
-| 2022 → Apr 2025 | **Freelance Full-Stack Engineer**: React, Node.js, React Native, Flutter, PostgreSQL, Firebase | ~12 clients |
+| 2022 → Apr 2025 | **Freelance Full-Stack Engineer**: React, Node.js, React Native, Flutter, PostgreSQL, Firebase | 12 larger + 50+ smaller clients |
 | Jul → Sep 2022 | **Frontend Developer Intern**: built the whole mobile app in React Native with the CTO | [Keet](https://keet.ai) |
 | Mar → Aug 2021 | **Full-Stack Developer Intern**: e-commerce middleware that processed thousands of car parts | KTG srl |
 
